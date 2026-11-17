@@ -1,4 +1,4 @@
--- 15_check_order_items_flag
+-- 15 check order items flag
 -- Checking that the flags work for the correct status.
 -- Complete and shipped are flagged as true, whilst the rest are flagged as false.
 -- Numbers add to 179577, so everything seems fine.
