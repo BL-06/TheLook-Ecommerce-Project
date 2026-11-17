@@ -9,7 +9,7 @@ Personal project looking at what type of customers there are and how to retain t
 ## Project Materials
 
 - **[SQL queries](sql/)** - numbered SQL queries ran in BigQuery that were used to profile the database and create clean tables for analysis.
-- **[Notebook](notebooks/customer_segmentation.ipynb)** - notebook that contains the pandas analysis of the created clean tables.
+- **[Notebook](notebooks/ecommerce_pandas.ipynb)** - notebook that contains the pandas analysis of the created clean tables.
 - **[Segment chart](visuals/segment_share.png)** - the type of customer and the contribution they have to revenue.
 - **[Cleaning notes](cleaning_notes.md)** - more details on the cleaning process.
 - The data is the public BigQuery dataset `bigquery-public-data.thelook_ecommerce`, therefore no data files have been added as it is accessible. Three of seven tables were used (`order_items`, `products`, `users`).
