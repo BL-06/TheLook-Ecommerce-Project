@@ -1,4 +1,4 @@
--- 07_profile_shipped_before_created_gap
+-- 07 profile shipped before created gap
 -- The maximum gap between these error arows are 95 hours, the minimum gap is 0 hours and the average gap is about 37 hours. 
 -- These are quite huge gaps, so there is something wrong in these rows.
 SELECT
