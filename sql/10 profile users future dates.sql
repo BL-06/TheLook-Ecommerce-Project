@@ -1,4 +1,4 @@
--- 10_profile_users_future_dates
+-- 10 profile users future dates
 -- No dates set after the cutoff have been found in the users table.
 -- No need to put a date filter.
 SELECT
