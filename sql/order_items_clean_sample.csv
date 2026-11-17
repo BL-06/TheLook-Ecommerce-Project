@@ -1,0 +1,21 @@
+purchased_item_id,order_id,user_id,product_id,status,sale_price,created_at,category,brand,department,cost,margin,is_revenue
+37800,25989,20859,19131,Processing,59.94,2023-02-17 20:48:05,Sweaters,Calvin Klein Jeans,Men,28.17,31.77,False
+144104,99272,79469,14202,Cancelled,1.50,2025-05-02 15:37:07,Accessories,H2W,Women,0.62,0.88,False
+100205,69013,55210,9514,Returned,25.00,2026-07-29 03:49:13,Sleep & Lounge,Hello Kitty,Women,15.93,9.07,False
+104117,71735,57376,19619,Shipped,165.00,2025-03-04 11:14:43,Sweaters,Rodd & Gunn,Men,78.70,86.30,True
+170219,117288,93907,12676,Cancelled,59.95,2026-01-14 21:39:34,Intimates,Brabag,Women,31.17,28.78,False
+169404,116720,93436,3231,Shipped,148.00,2021-08-09 09:18:52,Dresses,Jessica Simpson,Women,65.12,82.88,True
+169943,117101,93758,296,Shipped,29.97,2025-09-24 07:52:35,Tops & Tees,Calvin Klein Jeans,Women,16.81,13.16,True
+114440,78876,63068,24257,Processing,135.00,2025-07-07 01:29:26,Outerwear & Coats,Mountain Hardwear,Men,60.48,74.52,False
+42382,29171,23458,10592,Complete,19.99,2025-03-06 20:25:45,Intimates,Exquisite Form,Women,10.41,9.58,True
+91818,63233,50619,16242,Complete,30.00,2026-10-03 01:33:11,Tops & Tees,DC,Men,16.14,13.86,True
+99649,68627,54911,29019,Returned,34.95,2022-10-01 21:41:14,Accessories,JiMarti,Men,12.30,22.65,False
+165644,114136,91339,28973,Returned,80.65,2021-11-04 14:06:35,Accessories,Native Eyewear,Men,31.45,49.20,False
+97848,67401,53953,24473,Shipped,15.00,2026-04-21 16:05:50,Socks,Original Penguin,Men,8.66,6.34,True
+80482,55361,44376,1002,Shipped,69.00,2026-08-30 05:48:37,Sweaters,Chaus,Women,32.08,36.92,True
+25621,17655,14217,2244,Shipped,36.99,2024-02-29 13:47:58,Fashion Hoodies & Sweatshirts,Active Products,Women,17.90,19.09,True
+68067,46762,37467,5010,Shipped,169.00,2026-09-07 03:03:04,Jeans,PAIGE,Women,85.68,83.32,True
+95212,65582,52454,19334,Complete,80.00,2026-01-17 14:12:37,Sweaters,Schaefer Outfitters,Men,36.32,43.68,True
+177272,122098,97753,25788,Complete,26.00,2025-10-16 18:19:05,Underwear,Calvin Klein,Men,12.04,13.96,True
+113433,78193,62554,11563,Returned,19.99,2026-08-07 03:35:24,Intimates,Underworks,Women,11.23,8.76,False
+67758,46546,37300,9554,Shipped,28.99,2025-08-19 00:37:30,Sleep & Lounge,Alexander Del Rossa,Women,16.76,12.23,True
