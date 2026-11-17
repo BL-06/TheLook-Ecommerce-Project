@@ -4,16 +4,16 @@ Personal project looking at what type of customers there are and how to retain t
 
 ## Project Question
 
-**What type of customers are there in this database, and how can we retain them for maximum profit?**
+**What type of customers are there in this dataset, and how can we retain them for maximum profit?**
 
 ## Project Materials
 
-- **[SQL queries](sql/)** - numbered SQL queries ran in BigQuery that were used to profile the database and create clean tables for analysis.
+- **[SQL queries](sql/)** - numbered SQL queries ran in BigQuery that were used to profile the dataset and create clean tables for analysis.
 - **[Notebook](notebooks/ecommerce_pandas.ipynb)** - notebook that contains the pandas analysis of the created clean tables.
 - **[Segment chart](visuals/segment_share.png)** - the type of customer and the contribution they have to revenue.
 - **[Cleaning notes](cleaning_notes.md)** - more details on the cleaning process.
-- The data is the public BigQuery dataset `bigquery-public-data.thelook_ecommerce`, therefore no data files have been added as it is accessible. Three of seven tables were used (`order_items`, `products`, `users`).
-- This database is constantly updated, so everything you see is a snapshot from the 16th of November 2026.
+- The data is the public BigQuery dataset `bigquery-public-data.thelook_ecommerce`, therefore no data files of the original dataset have been added as it is accessible. Three of seven tables were used (`order_items`, `products`, `users`).
+- This dataset is constantly updated, so everything you see is a snapshot from the 16th of November 2026.
 
 ## Cleaning and Analysis
 
