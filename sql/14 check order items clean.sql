@@ -1,4 +1,4 @@
--- 14_check_order_items_clean
+-- 14 check order items clean
 -- Checking that there are no duplicate ids for items that have been purchased.
 -- Expecting 181396 - 1819 = 179577 (181396 from query 01 and 1819 from query 04).
 -- 179577 rows and 179577 distinct items, so everything checks out.
