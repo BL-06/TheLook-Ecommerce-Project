@@ -1,4 +1,4 @@
--- 01_profile_row_count_date_range
+-- 01 profile row count date range
 -- Found 181396 rows, where the first order is on 2019-01-13 and the last order is 2026-11-20 (in the future, current date is 2026-11-16).
 -- Use ISO dating format for simplicity.
 SELECT
