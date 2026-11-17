@@ -1,4 +1,4 @@
--- 13_clean_order_items
+-- 13 clean order items
 -- Creates a table where items are joined to product, the shipped_at and delivered_at columns are removed and the timestamp cutoff (2026-11-16) is applied.
 -- Shipped_at and delivered_at were removed because about 20% of all items (about 30% of items that have a shipping date) have shipping dates set before creation dates, and delivered_at was only checked against shipped_at so is unreliable.
 -- These two columns are also not useful columns for customer value analysis.
