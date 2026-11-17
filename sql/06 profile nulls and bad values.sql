@@ -1,4 +1,4 @@
--- 06_profile_nulls_and_bad_values
+-- 06 profile nulls and bad values
 -- Nulls needed to be cleaned have been found, where there are no empty (or wrong values) for sale price, user id and delivery dates. 
 -- However, there are 35711 wrong shipping/creation dates, which accounts for about 20% of the database which is significant.
 SELECT
