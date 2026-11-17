@@ -1,4 +1,4 @@
--- 11_clean_users
+-- 11 clean users
 -- Only selected id, age, gender, country, traffic source and created at because these are sufficient enough to link the order to the customer without exposing personal information.
 -- Created at also lets us build cohorts by join date.
 -- Only orders before 2026-11-16 are kept.
