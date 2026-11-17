@@ -1,4 +1,4 @@
--- 03_profile_future_dated_rows
+-- 03 profile future dated rows
 -- Found the amount of rows where the order date is after the cutoff (2026-11-16).
 -- 1819 rows after cutoff out of 181396 total rows.
 SELECT
