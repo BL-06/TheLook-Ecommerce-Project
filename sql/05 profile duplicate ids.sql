@@ -1,4 +1,4 @@
--- 05_profile_duplicate_ids
+-- 05 profile duplicate ids
 -- Running to find any duplicate ids in the dataset, where there are no duplicate ids. 
 -- HAVING is used instead of WHERE as WHERE runs before GROUP BY does, so wouldnt be able to give any ids with a count above 1. 
 -- If there were duplicates, I'd investigate these duplicated rows and look at them next to each other. 
