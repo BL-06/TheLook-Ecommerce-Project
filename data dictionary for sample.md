@@ -7,7 +7,7 @@ Notes on how to read the cleaned data samples in **[sql](sql/)**.
 - The source data is the constantly updating `bigquery-public-data.thelook_ecommerce` dataset, and all figures in this project come from a snapshot taken on 16 November 2026.
 - See the [cleaning notes](../../cleaning_notes.md) for the reasoning behind the cleaning steps.
 
-## [users_clean_sample.csv](11%20users%20clean%20sample.csv)
+## [users_clean_sample.csv](sql/11%20users%20clean%20sample.csv)
 
 Full table: 100,000 rows, one per customer.
 
@@ -20,7 +20,7 @@ Full table: 100,000 rows, one per customer.
 | `traffic_source` | string | How the customer found the site. |
 | `created_at` | timestamp (UTC) | When the customer account was created, only including accounts before 2026-11-16. |
 
-## [order_items_clean_sample.csv](13%20order%20items%20clean%20sample.csv)
+## [order_items_clean_sample.csv](sql/13%20order%20items%20clean%20sample.csv)
 
 Full table: 179,577 rows, one per purchased item.
 
