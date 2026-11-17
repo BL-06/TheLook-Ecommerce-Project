@@ -1,4 +1,4 @@
--- 12_check_users_clean
+-- 12 check users clean
 -- Run a check to ensure the amount of rows in the "users_clean" table match query 10.
 -- 100,000 rows and 100,000 distinct ids, so matches query 10.
 SELECT
