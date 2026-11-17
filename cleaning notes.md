@@ -1,6 +1,6 @@
 # Cleaning Notes
 
-Notes on the reasoning behind each cleaning step. Queries `01`-`10` in [sql/](sql/) profile the raw tables, and each rule below comes from something found there. Queries `11` and `13` create the cleaned tables, and `12`, `14` and `15` check them.
+Notes on the reasoning behind each cleaning step. Queries `01`-`10` in [sql](sql/) profile the raw tables, and each rule below comes from something found there. Queries `11` and `13` create the cleaned tables, and `12`, `14` and `15` check them.
 
 All figures are from a snapshot taken on 16 November 2026. The source dataset is constantly updated, so rerunning the profiling queries later will give slightly different counts.
 
