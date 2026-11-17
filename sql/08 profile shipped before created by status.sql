@@ -1,4 +1,4 @@
--- 08_profile_shipped_before_created_by_status
+-- 08 profile shipped before created by status
 -- Processing and Cancelled items would not appear here as this is only looking at items that have been shipped at one point.
 -- 16459 shipped, 14005 complete, and 5247 returned.
 -- When you compare this table to the table in query 02, you can see that each row in this table accounts for about 30% of the respective rows in the 02 table.
