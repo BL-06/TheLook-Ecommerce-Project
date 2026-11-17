@@ -19,7 +19,7 @@ All figures are from a snapshot taken on 16 November 2026. The source dataset is
 
 ## Cleaned tables
 
-Both are stored in a `thelook_clean` BigQuery dataset, but samples can be found in **[sql](sql/)**. Dictionary for what each row means can be found in **[data dictionary](data dictionary for sample/)**.
+Both are stored in a `thelook_clean` BigQuery dataset, but samples can be found in **[sql](sql/)**. Dictionary for what each row means can be found in **[data dictionary](data%20dictionary%20for%20sample.md)**.
 
 - `users_clean`: 100,000 rows, 6 columns (`id`, `age`, `gender`, `country`, `traffic_source`, `created_at`)
 - `order_items_clean`: 179,577 rows, 13 columns, including `margin` (sale price minus product cost) and `is_revenue`
